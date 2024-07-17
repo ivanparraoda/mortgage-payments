@@ -218,7 +218,11 @@ const Calculator = ({
           className='flex items-center w-full md:w-auto bg-accent rounded-3xl py-3 px-6 text-xs font-bold text-bg_main gap-1'
           disabled={formSubmitted}
         >
-          <img src='/icon-calculator.svg' alt='calculator' className='w-4' />
+          <img
+            src='/images/icon-calculator.svg'
+            alt='calculator'
+            className='w-4'
+          />
           Calculate Repayments
         </button>
       </form>

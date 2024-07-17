@@ -219,7 +219,7 @@ const Calculator = ({
           disabled={formSubmitted}
         >
           <img
-            src='/images/icon-calculator.svg'
+            src='/public/images/icon-calculator.svg'
             alt='calculator'
             className='w-4'
           />

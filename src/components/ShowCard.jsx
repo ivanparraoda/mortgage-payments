@@ -80,8 +80,7 @@ const ShowCard = ({
             </div>
             <div className='border-t pt-6'>
               <p className='text-gray-400 text-xs'>
-                Total you'll repay over the term kckckxkckxmkxmkxmckmckmcxk
-                cxkckxmckxmkcmxxkcxkmc
+                Total you'll repay over the term
               </p>
               <span className='text-white text-xl font-semibold'>
                 {formatCurrency(totalRepayment)}

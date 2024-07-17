@@ -14,6 +14,7 @@ function App() {
 
   return (
     <main className='flex justify-center items-center md:h-screen bg-gray-100'>
+      <h1 className='text-3xl text-red-500'>Hello</h1>
       <div className='flex flex-col md:flex-row shadow-xl bg-white rounded-xl md:w-4/6'>
         <Calculator
           mortgageAmount={mortgageAmount}

@@ -92,7 +92,7 @@ const ShowCard = ({
         <div className='min-h-80 flex justify-center items-center text-center'>
           <div>
             <img
-              src='/public/images/illustration-empty.svg'
+              src='/images/illustration-empty.svg'
               alt='empty img'
               className='mx-auto w-40 mb-4'
             />
